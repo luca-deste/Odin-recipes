@@ -20,3 +20,13 @@ img.lasagna {
 p.center a{
     text-align: center;
 }
+
+.garfield {
+    width: 800px;
+    height: auto;
+    border: 3px dashed orange;
+}
+
+ul {
+    list-style-position: inside;
+}
