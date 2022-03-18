@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(255, 226, 183);
+    color: rgb(100, 100, 100);
+}
+
+img.lasagna {
+    width: 300px;
+    height: auto;
+    border: 2px solid black;
+}
+
+.back {
+    font-size: 13px;
+    color: rgb(0, 0, 0);
+}
+
+.center {
+    text-align: center;
+}
+p.center a{
+    text-align: center;
+}
